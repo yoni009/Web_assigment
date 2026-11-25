@@ -1,1 +1,12 @@
+.bg-sb-green { background-color: #006241; }
+.bg-sb-forest { background-color: #1e3932; }
+.bg-sb-mint { background-color: #d4e9e2; }
+.bg-sb-warm { background-color: #f2f0eb; }
+.text-sb-forest { color: #1e3932; }
 
+.navbar-nav .nav-link:hover { color: #006241; }
+.promo-img { height: 460px; }
+
+@media (max-width: 767.98px) {
+  .promo-img { height: 300px; }
+}
